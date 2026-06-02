@@ -1,0 +1,13 @@
+PROCESS VS THREAD
+
+PROCESS
+- Independent execution unit
+- Has separate memory
+- More resource consumption
+- Slower creation
+
+THREAD
+- Lightweight process
+- Shares memory with other threads
+- Less resource consumption
+- Faster creation
